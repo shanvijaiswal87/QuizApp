@@ -22,7 +22,7 @@ Project Description: This repository contains the source code for a web applicat
 
 ## Setup Instructions
 
-1. Clone the repository to your local machine using `git clone <repository-url>`.
+1. Clone the repository to your local machine using `git clone https://github.com/shanvijaiswal87/QuizApp`.
 
 2. Open the project folder in your code editor.
 
